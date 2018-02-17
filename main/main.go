@@ -6,5 +6,5 @@ import (
 
 func main() {
 
-	fmt.Printf("Test GO!")
+	fmt.Printf("Test GO! GO!")
 }
